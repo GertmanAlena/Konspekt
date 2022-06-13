@@ -101,6 +101,7 @@
 
 ## D
 **dictionary** - словарь
+**different** - другой
 
 ## E
 

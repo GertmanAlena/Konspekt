@@ -1,5 +1,3 @@
 | LEFT | CENTER | PIGHT |
 |---------|:-----------:|---------:|
-| По левому краю | По центру | По правому краю |
-| текст | текст | текст |
-|✅ :white_check_mark:|
+✅ :white_check_mark: | ❎ :negative_squared_cross_mark:
